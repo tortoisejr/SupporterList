@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "insert";
+}
+@{
+    if (TempData["msg"] != null)
+    { 
+       <h3 class="alert alert-danger">@TempData["msg"]</h3>
+    }
+}
+
+
+<h2>insert</h2>
+
+<form method="post">
+    <input type="text" name="FName" class="form-control" value="" placeholder="First Name"/>
+    <input type="text" name="LName" class="form-control" value="" placeholder="Last Name"/>
+    <input type="text" name="Nation" class="form-control" value="" placeholder="Nationality"/>
+    <input type="text"name="Club" class="form-control" value="" placeholder="Supported Club"/>
+    <input type="text" name="Age" class="form-control" value="" placeholder="AGE"/>
+    <input type="submit" value="Add" class="btn btn-success"/>
+</form>
+

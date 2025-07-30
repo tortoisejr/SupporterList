@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|c:\\users\\sabbir\\source\\repos\\supperterlist\\supperterlist\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|c:\\users\\sabbir\\source\\repos\\supperterlist\\supperterlist\\views\\supporter\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\views\\supporter\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|C:\\Users\\sabbir\\source\\repos\\SupperterList\\supperterlist\\views\\supporter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\views\\supporter\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|C:\\Users\\sabbir\\source\\repos\\SupperterList\\supperterlist\\ef\\supportermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\ef\\supportermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|C:\\Users\\sabbir\\source\\repos\\SupperterList\\supperterlist\\controllers\\supportercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\controllers\\supportercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|C:\\Users\\sabbir\\source\\repos\\SupperterList\\supperterlist\\ef\\suppertermanagement.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\ef\\suppertermanagement.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|C:\\Users\\sabbir\\source\\repos\\SupperterList\\supperterlist\\views\\supporter\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\views\\supporter\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|C:\\Users\\sabbir\\source\\repos\\SupperterList\\supperterlist\\dtos\\supportermanagementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{016F1D24-9CE8-423E-AE82-DC7D83E4D7D2}|SupperterList\\SupperterList.csproj|solutionrelative:supperterlist\\dtos\\supportermanagementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 357,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Web.config",
+              "RelativeDocumentMoniker": "SupperterList\\Web.config",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Web.config",
+              "RelativeToolTip": "SupperterList\\Web.config",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-29T19:28:12.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Views\\Supporter\\edit.cshtml",
+              "RelativeDocumentMoniker": "SupperterList\\Views\\Supporter\\edit.cshtml",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Views\\Supporter\\edit.cshtml",
+              "RelativeToolTip": "SupperterList\\Views\\Supporter\\edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T20:23:51.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SupperterManagement.Context.cs",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\EF\\SupperterManagement.Context.cs",
+              "RelativeDocumentMoniker": "SupperterList\\EF\\SupperterManagement.Context.cs",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\EF\\SupperterManagement.Context.cs",
+              "RelativeToolTip": "SupperterList\\EF\\SupperterManagement.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:14:46.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Views\\Supporter\\insert.cshtml",
+              "RelativeDocumentMoniker": "SupperterList\\Views\\Supporter\\insert.cshtml",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Views\\Supporter\\insert.cshtml",
+              "RelativeToolTip": "SupperterList\\Views\\Supporter\\insert.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T04:19:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupporterManagement.cs",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\EF\\SupporterManagement.cs",
+              "RelativeDocumentMoniker": "SupperterList\\EF\\SupporterManagement.cs",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\EF\\SupporterManagement.cs",
+              "RelativeToolTip": "SupperterList\\EF\\SupporterManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:07:56.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Views\\Supporter\\Index.cshtml",
+              "RelativeDocumentMoniker": "SupperterList\\Views\\Supporter\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Views\\Supporter\\Index.cshtml",
+              "RelativeToolTip": "SupperterList\\Views\\Supporter\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T06:11:07.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupporterController.cs",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Controllers\\SupporterController.cs",
+              "RelativeDocumentMoniker": "SupperterList\\Controllers\\SupporterController.cs",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\Controllers\\SupporterController.cs",
+              "RelativeToolTip": "SupperterList\\Controllers\\SupporterController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:15:35.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SupporterManagementDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\DTOs\\SupporterManagementDTO.cs",
+              "RelativeDocumentMoniker": "SupperterList\\DTOs\\SupporterManagementDTO.cs",
+              "ToolTip": "C:\\Users\\sabbir\\source\\repos\\SupperterList\\SupperterList\\DTOs\\SupporterManagementDTO.cs",
+              "RelativeToolTip": "SupperterList\\DTOs\\SupporterManagementDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T19:16:57.109Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 12,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
